@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ namespace Git_Project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pew Pew");
+            Console.WriteLine("Pew Pew Pew");
         }
     }
 }
