@@ -1,1 +1,2 @@
 Testing to add new file !
+The file is added !
